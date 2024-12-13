@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: purviewlab
+  annotations:
+    github.com/project-slug: rdemengel/purviewlab
+spec:
+  type: other
+  lifecycle: unknown
+  owner: gp_cloudbooster_dev
